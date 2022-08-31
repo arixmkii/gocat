@@ -1,6 +1,7 @@
 module github.com/sumup-oss/gocat
 
 require (
+	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/elliotchance/orderedmap v1.2.0 // indirect
 	github.com/googleapis/gnostic v0.2.0 // indirect
 	github.com/hashicorp/vault/api v1.0.1 // indirect
